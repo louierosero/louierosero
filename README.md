@@ -35,7 +35,7 @@ Check out my [Codepen](https://codepen.io/louierosero) account for more front-en
 
 ## 🎨 Behance
 
-You can also find some of my design work on [Behance](https://www.behance.net/Louie_Rosero).
+You can also find some of my design work on [Behance](https://www.behance.net/louiecalanza).
 
 ## 📊 Github Stats
 
@@ -47,6 +47,6 @@ You can also find some of my design work on [Behance](https://www.behance.net/Lo
 
 ## 📫 Contact Me
 
-If you have any questions or just want to say hi, feel free to contact me at roserolouie@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/louierosero-frontend-developer/).
+If you have any questions or just want to say hi, feel free to contact me at louiecalanza24@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/louierosero/).
 
 Thanks for checking out my repository, and I hope you find something useful here! 😊
