@@ -43,7 +43,7 @@ You can also find some of my design work on [Behance](https://www.behance.net/lo
 
 ## 🏆 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=louierosero)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=louierosero&theme=onedark)](https://github.com/louierosero/github-profile-trophy)
 
 ## 📫 Contact Me
 
